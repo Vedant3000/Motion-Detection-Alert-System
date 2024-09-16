@@ -43,6 +43,6 @@ python motion-det2.py
 ```
 
 ## Screenshots
-![Motion Detection Screenshot](images/results.png)
+![Motion Detection Screenshot](results.png)
 
 
