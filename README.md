@@ -44,5 +44,6 @@ python motion-det2.py
 
 ## Screenshots
 ![Motion Detection Screenshot](results.png)
+![Motion Detection on highway](motion.png)
 
 
